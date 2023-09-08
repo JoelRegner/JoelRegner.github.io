@@ -8,8 +8,8 @@
       }
       
       p {
-        background-color: yellow;
+        background-color: slateblue;
       }
       body {
-        background-image: url("C:\Users\jokke\Pictures\Taameniyksviikko.jpg");
+        background-image: ("C:\Users\jokke\Pictures\Taameniyksviikko.jpg");
       }
